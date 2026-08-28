@@ -3,7 +3,7 @@ name: ChartAcademy Auto Watch
 on:
   schedule:
     # 06:55 UTC = 12:25 PM IST
-    - cron: '0 1 * * *'
+    - cron: '5 0 * * *'
   workflow_dispatch: # Allows manual run button in GitHub Actions tab
 
 jobs:
