@@ -3,13 +3,13 @@ name: ChartAcademy Auto Watch
 on:
   schedule:
     # 06:55 UTC = 12:25 PM IST
-    - cron: '5 0 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch: # Allows manual run button in GitHub Actions tab
 
 jobs:
   run-watch-bot:
     runs-on: ubuntu-latest
-    timeout-minutes: 36
+    timeout-minutes: 38
 
     steps:
       - name: Check out repository
