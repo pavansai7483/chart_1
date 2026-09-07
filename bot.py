@@ -8,16 +8,16 @@ from playwright.async_api import async_playwright
 # HARDCODED CREDENTIALS
 ACCOUNTS = [
     {
-        "email": "srivankumar1208@gmail.com",
-        "password": "Sri@1234"
+        "email": "madishettivanamma@gmail.com",
+        "password": "Sky@7747"
     },
     {
-        "email": "hemanth934657@gmail.com",
-        "password": "Hema@123"
+        "email": "hemavankumar123@gmail.com",
+        "password": "Sky@7747"
     },
     {
-        "email": "hemavankumaradupa4440@gmail.com",
-        "password": "Hema@1234"
+        "email": "srivankumar@proton.me",
+        "password": "Sky@7747"
     }
 ]
 
