@@ -28,13 +28,13 @@ STATE_FILE = "state.json"
 # Masterclasses and duration in days
 # Format: ("URL", days_to_stay)
 MASTERCLASS_SCHEDULE = [
+    ("https://app.chartacademy.com/masterclasses/465/video/503", 8),
+    ("https://app.chartacademy.com/masterclasses/430/video/463", 4),
     ("https://app.chartacademy.com/masterclasses/562/video/595", 4),  # 1st Masterclass: 3 Days
     ("https://app.chartacademy.com/masterclasses/463/video/496", 4),  # 2nd Masterclass: 4 Days
     ("https://app.chartacademy.com/masterclasses/299/video/303", 4),  # 3rd Masterclass: 3 Days
     ("https://app.chartacademy.com/masterclasses/608/video/675", 2),
-    ("https://app.chartacademy.com/masterclasses/607/video/660", 2),
-    ("https://app.chartacademy.com/masterclasses/465/video/503", 8),
-    ("https://app.chartacademy.com/masterclasses/430/video/463", 4)
+    ("https://app.chartacademy.com/masterclasses/607/video/660", 2)
 ]
 
 
